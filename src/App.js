@@ -10,7 +10,7 @@ class App extends Component {
 			<div className="App">
 				<CatComponent />
 				<EinsteinQuoteComponent />
-				<Mouse Component />
+				<MouseComponent />
 			</div>
 		);
 	}
